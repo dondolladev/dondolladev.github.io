@@ -1,0 +1,19 @@
+{
+  "name": "NoLimit Budget",
+  "short_name": "NoLimit",
+  "description": "Zero-based budgeting. ODAAT. No subscriptions, no ads, no limits. BANDGANG credit repair command center.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
